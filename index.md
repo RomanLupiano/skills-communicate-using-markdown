@@ -1,4 +1,8 @@
-# Cambios siguiendo Github Education
-Se cambia del paso 0 al paso 1 del curso
+# Cambios siguiendo Github Education  
+Se cambia del paso 1 al paso 2 del curso  
+Se agrega código en formato markdown  
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` python
+def sum(x , y):
+  return x + y
+```

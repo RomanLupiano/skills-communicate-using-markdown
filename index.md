@@ -1,8 +1,7 @@
 # Cambios siguiendo Github Education  
-Se cambia del paso 1 al paso 2 del curso  
-Se agrega código en formato markdown  
+Se cambia del paso 2 al paso 3 del curso  
+Se agrega una task list  
 
-``` python
-def sum(x , y):
-  return x + y
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
